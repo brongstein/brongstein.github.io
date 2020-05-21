@@ -1,0 +1,42 @@
+<style>
+body {
+	background-color: black;
+	}
+	
+h1 {
+	color: white;
+	font-size: 69px;
+	font-family: serif;
+	}
+  
+h2 {
+	color: #F8BCB7;
+	font-size: 36px;
+	font-family: serif;
+	}
+  
+h5 {
+	color: grey;
+	font-size: 15px;
+	font-family: serif;
+	}
+	
+#navbar {
+    position: fixed;
+    width: 100%;
+    background-color: orange;
+    left: 0px;
+    top: 0px;
+    }
+    
+nav ul {
+	margin: 0px;
+	padding: 10px 0px 5px 20px;
+	}
+	
+nav li {
+	display: inline;
+	margin-right: 20px;
+	}
+		                                
+</style>
