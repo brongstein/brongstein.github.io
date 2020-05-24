@@ -65,9 +65,9 @@ h5 {
 nav ul {
 	margin: 0px;
 	padding: 10px 0px 5px 20px;
-	font-size: 15px;
-	font-family: OpenSans-ExtraBold, Arial-Bold, sans-serif;
-	text-transform: lowercase;
+	font-size: 13px;
+	font-family: OpenSans-Light, Arial-Bold, sans-serif;
+	text-transform: uppercase;
 	color: white;
 	}
 	
