@@ -66,8 +66,16 @@ h5 {
 	letter-spacing: 0.5px;
 	}
 
-footer {
-	padding-top: 69%}
+h6 {
+	color: #F2F2F2;
+	font-size: 12px;
+	font-family: OpenSans-Light, Arial, sans-serif;
+	letter-spacing: 0.5px;
+	}
+
+hr {
+	padding-top: 42%
+	}
 	
 #navbar {
     position: fixed;
