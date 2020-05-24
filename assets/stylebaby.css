@@ -7,13 +7,13 @@ body {
 h1 {
 	color: white;
 	font-size: 69px;
-	font-family: serif;
+	font-family: Lora-Regular, Times New Roman, serif;
 	}
   
 h2 {
 	color: #F8BCB7;
 	font-size: 36px;
-	font-family: serif;
+	font-family: Lora-Bold, Times New Roman, serif;
 	}
   
 h5 {
