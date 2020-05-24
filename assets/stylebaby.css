@@ -39,6 +39,7 @@ h1 {
 	color: white;
 	font-size: 69px;
 	font-family: Lora-Regular, Times New Roman, serif;
+	text-transform: uppercase;
 	}
   
 h2 {
@@ -66,7 +67,7 @@ nav ul {
 	padding: 10px 0px 5px 20px;
 	font-size: 15px;
 	font-family: OpenSans-ExtraBold, Arial-Bold, sans-serif;
-	text-transform: uppercase;
+	text-transform: lowercase;
 	color: white;
 	}
 	
