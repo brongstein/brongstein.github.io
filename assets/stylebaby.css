@@ -1,5 +1,10 @@
 <style>
 
+@font-face {
+    font-family: 'Lora-Bold';
+    src: url('Lord-Bold.ttf') format('truetype'),
+	}
+
 body {
 	background-color: #000000;
 	}
