@@ -1,9 +1,35 @@
 <style>
 
 @font-face {
-	font-family: 'Lora';
-    	src: url('https://brongstein.github.io/assets/Lora-Bold.ttf') format('truetype'),
-	}
+   	font-family: Lora-Bold; 
+  	src: url('Lora-Bold.ttf');
+	} 
+
+@font-face {
+   	font-family: Lora-Italic; 
+  	src: url('Lora-Italic.ttf');
+	} 
+
+@font-face {
+   	font-family: Lora-Regular; 
+  	src: url('Lora-Regular.ttf');
+	} 
+
+@font-face {
+   	font-family: OpenSans-Bold; 
+  	src: url('OpenSans-Bold.ttf');
+	} 
+
+@font-face {
+   	font-family: OpenSans-ExtraBold; 
+  	src: url('OpenSans-ExtraBold.ttf');
+	} 
+
+@font-face {
+   	font-family: OpenSans-Regular; 
+  	src: url('OpenSans-Regular.ttf');
+	} 
+
 
 body {
 	background-color: #000000;
