@@ -25,7 +25,7 @@ h5 {
 #navbar {
     position: fixed;
     width: 100%;
-    background-color: orange;
+    background-color: #DAA520;
     left: 0px;
     top: 0px;
     }
@@ -35,7 +35,8 @@ nav ul {
 	padding: 10px 0px 5px 20px;
 	font-size: 15px;
 	font-family: OpenSans-ExtraBold, Arial-Bold, sans-serif;
-	text-transform: uppercase
+	text-transform: uppercase;
+	color: white;
 	}
 	
 nav li {
