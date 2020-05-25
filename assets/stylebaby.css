@@ -67,9 +67,10 @@ h5 {
 	}
 
 h6 {
-	color: #4f4f4f;
-	font-size: 10px;
+	color: #757575;
+	font-size: 12px;
 	font-family: OpenSans-Light, Arial, sans-serif;
+	letter-spacing: 0.6px;
 	}
 
 hr {
