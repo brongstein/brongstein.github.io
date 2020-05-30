@@ -1,41 +1,41 @@
 @font-face {
    	font-family: Lora-Bold; 
-  	src: url('/fonts/Lora-Bold.ttf');
+  	src: url('/assets/fonts/Lora-Bold.ttf');
 	}
 	
 @font-face {
    	font-family: Lora-Italic; 
-  	src: url('/fonts/Lora-Italic.ttf');
+  	src: url('/assets/fonts/Lora-Italic.ttf');
 	}
 	
 @font-face {
    	font-family: Lora-Regular; 
-  	src: url('/fonts/Lora-Regular.ttf');
+  	src: url('/assets/fonts/Lora-Regular.ttf');
 	}
 	
 @font-face {
    	font-family: OpenSans-Bold; 
-  	src: url('/fonts/OpenSans-Bold.ttf');
+  	src: url('/assets/fonts/OpenSans-Bold.ttf');
 	}
 	
 @font-face {
    	font-family: OpenSans-ExtraBold; 
-  	src: url('/fonts/OpenSans-ExtraBold.ttf');
+  	src: url('/assets/fonts/OpenSans-ExtraBold.ttf');
 	}
 
 @font-face {
    	font-family: OpenSans-Italic; 
-  	src: url('/fonts/OpenSans-Italic.ttf');
+  	src: url('/assets/fonts/OpenSans-Italic.ttf');
 	}
 
 @font-face {
    	font-family: OpenSans-Regular; 
-  	src: url('/fonts/OpenSans-Regular.ttf');
+  	src: url('/assets/fonts/OpenSans-Regular.ttf');
 	}
 	
 @font-face {
 	font-family: OpenSans-Light; 
-  	src: url('/fonts/OpenSans-Light.ttf');
+  	src: url('/assets/fonts/OpenSans-Light.ttf');
 	}
 
 body {
