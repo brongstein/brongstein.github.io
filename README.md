@@ -1,6 +1,6 @@
 # Bearer Seek Seek Lest
 
-> This is a Dark Souls fanpage that covers what I think about various aspects of the four-game series, created as an assignment for getting into the basics of coding.
+This Dark Souls fanpage covers what I think about the areas, bosses, and weapons throughout the series. Felt appropriate, as all four entries in the Souls series are among my favorite games. This site was created as an assignment for learning the basics of HTML and CSS.
 
 ## Table of Contents
 
