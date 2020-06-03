@@ -15,7 +15,7 @@
 
 ## Tech
 
-This site is powered by HTML5 and CSS4. Guidance and teaching provided Rick, my sensei and friend. Additional learning from [FreeCodeCamp](freecodecamp.org) and [Coursera courses](https://developer.apple.com/xcode/).
+This site is powered by HTML5 and CSS4. Website built on Github's browser interface, as well as Linux terminal (PopOS! user over here, there are dozens of us). Guidance and teaching provided Rick, my sensei and friend. Additional learning from [FreeCodeCamp](freecodecamp.org) and [Coursera courses](https://developer.apple.com/xcode/).
 
 ## Roadmap
 
