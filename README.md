@@ -1,6 +1,6 @@
 # Bearer Seek Seek Lest
 
-This Dark Souls fanpage covers what I think about the areas, bosses, and weapons throughout the series. Felt appropriate, as all four entries in the Souls series are among my favorite games. This site was created as an assignment for learning the basics of HTML and CSS.
+[My Dark Souls fanpage](https://brongstein.github.io/) covers what I think about the areas, bosses, and weapons throughout the series. Felt appropriate, as all four entries in the Souls series are among my favorite games. This site was created as an assignment for learning the basics of HTML and CSS.
 
 ## Table of Contents
 
@@ -15,7 +15,10 @@ This Dark Souls fanpage covers what I think about the areas, bosses, and weapons
 
 ## Tech
 
-This site is powered by HTML5 and CSS4. Website created through Github's browser interface, as well as Github through Linux terminal (PopOS! user over here, there are dozens of us). Guidance and teaching provided Rick, my sensei and friend. Additional learning from [FreeCodeCamp](freecodecamp.org) and [Coursera courses](https://developer.apple.com/xcode/). Also fueled by cheap coffee.
+- HTML
+- CSS
+- [FreeCodeCamp.org](https://www.freecodecamp.org/)
+- [Coursera](https://www.coursera.org/)
 
 ## Roadmap
 
