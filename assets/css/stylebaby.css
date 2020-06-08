@@ -110,5 +110,6 @@ nav li {
 .left {
 	width: 50%;
 	float: left;
-	padding: 0px 25px 100px 0px;
+	margin-right: 25px;
+	margin-bottom: 50px;
 }
