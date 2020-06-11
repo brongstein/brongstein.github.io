@@ -115,17 +115,20 @@ nav li {
 }
 
 .section1 {
-	z-index: 100;
+	position: absolute;
 }
 
 .section2 {
-        z-index: 90;
+        position: relative;
+	top: 150px;
 }
 
 .section3 {
-        z-index: 80;
+        position: relative;
+	top: 150px;
 }
 
 .section4 {
-        z-index: 70;
+        position: relative;
+	top: 150px;
 }
