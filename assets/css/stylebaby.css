@@ -116,7 +116,14 @@ nav li {
 	margin-bottom: 100px;
 }
 
+.right {
+        width: 40%;
+        float: right;
+        margin-bottom: 100px;
+}
+
 .areas {
+	float: bottom;
 	margin-bottom: 120px;
 }
 
