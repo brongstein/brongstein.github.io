@@ -108,12 +108,13 @@ nav li {
 }
 
 .left {
-	width: 69%;
+	width: 55%;
 	float: left;
 	margin-right: 25px;
 }
 
 .areas {
-	margin: 20px;
-	padding: 20px;
+	margin: 50px;
+	padding: 50px;
+	position: relative;
 }
