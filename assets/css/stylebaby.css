@@ -108,6 +108,7 @@ nav li {
 }
 
 .left {
+	position: relative;
 	width: 60%;
 	min-width: 400px;
 	max-width: 1000px;
