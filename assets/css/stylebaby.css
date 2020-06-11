@@ -115,16 +115,20 @@ nav li {
 }
 
 .section1 {
-	position: absolute;
+	position: relative;
+	padding; 200px;
+        top: 150px;
 }
 
 .section2 {
         position: relative;
+	padding; 200px;
 	top: 150px;
 }
 
 .section3 {
         position: relative;
+	padding; 200px;
 	top: 150px;
 }
 
