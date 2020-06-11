@@ -31,9 +31,9 @@
 body {
 	background-color: #000000;
 	padding-top: 5%;
-  	padding-right: 15%;
+  	padding-right: 20%;
   	padding-bottom: 5%;
-  	padding-left: 15%;
+  	padding-left: 20%;
 }
 
 h1 {
@@ -116,6 +116,9 @@ nav li {
 }
 
 .areas {
-	position: static;
-	margin-bottom: 69px;
+	margin-bottom: 120px;
+}
+
+#footer {
+	clear: both;			
 }
