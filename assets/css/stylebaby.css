@@ -113,14 +113,7 @@ nav li {
 	margin-right: 25px;
 }
 
-.section1 {
-	padding-bottom: 150px;
-}
-
-.section2 {
-        padding-bottom: 150px;
-}
-
-.section3 {
-        padding-bottom: 150px;
+.areas {
+	margin: 20px;
+	padding: 20px;
 }
