@@ -115,24 +115,13 @@ nav li {
 }
 
 .section1 {
-	position: relative;
-	padding; 200px;
-        top: 150px;
+	padding-bottom: 150px;
 }
 
 .section2 {
-        position: relative;
-	padding; 200px;
-	top: 150px;
+        padding-bottom: 150px;
 }
 
 .section3 {
-        position: relative;
-	padding; 200px;
-	top: 150px;
-}
-
-.section4 {
-        position: relative;
-	top: 150px;
+        padding-bottom: 150px;
 }
