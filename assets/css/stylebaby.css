@@ -107,20 +107,21 @@ nav li {
 	margin-right: 20px;
 }
 
-.left {
-	width: 60%;
-	min-width: 400px;
-	max-width: 1000px;
-	float: left;
-	margin-right: 30px;
-	margin-bottom: 100px;
-}
-
 .areas {
 	display: flex;
-	flex-direction: column;
 }
 
-#footer {
+.box {
+	margin: 69px
+}
+
+.box img {
+        max-width: 60%;
+	height: auto;
+        float: left;
+        margin: 0 20px 20px 0;
+}
+
+footer {
 	clear: both;			
 }
