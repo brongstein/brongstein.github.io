@@ -117,8 +117,8 @@ nav li {
 }
 
 .areas {
-	float: bottom;
-	margin-bottom: 120px;
+	display: flex;
+	flex-direction: column;
 }
 
 #footer {
