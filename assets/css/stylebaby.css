@@ -108,7 +108,6 @@ nav li {
 }
 
 .left {
-	position: relative;
 	width: 60%;
 	min-width: 400px;
 	max-width: 1000px;
@@ -117,6 +116,5 @@ nav li {
 }
 
 .areas {
-	position: relative;
-	top: 69px;
+	margin-bottom: 69px;
 }
