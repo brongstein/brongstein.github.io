@@ -111,6 +111,13 @@ nav li {
 	display: flex;
 }
 
+.areas iframe {
+        max-width: 60%;
+        height: auto;
+        float: left;
+        margin: 0 20px 20px 0;
+}
+
 .box img {
         max-width: 60%;
 	height: auto;
