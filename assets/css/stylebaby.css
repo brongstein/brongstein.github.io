@@ -116,5 +116,6 @@ nav li {
 }
 
 .areas {
-	margin-bottom: 69px;
+	position: relative;
+	top: 69px;
 }
