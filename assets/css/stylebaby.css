@@ -116,5 +116,6 @@ nav li {
 }
 
 .areas {
+	position: static;
 	margin-bottom: 69px;
 }
